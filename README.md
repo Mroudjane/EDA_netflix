@@ -54,5 +54,5 @@
 <p>We hope you enjoyed this application of the skills learned in Intermediate Python, and wish you all the best on the rest of your journey!</p>
 
 ![alt text](img/Unknown-2.png)
-![alt text](img/Unknown-1.png)
+![alt text](img/Unknown-3.png)
 ![alt text](img/Unknown.png)
