@@ -1,5 +1,5 @@
 # Investigating Netflix Movies and Guest Stars in The Office
-This project is part of a DataCamp course.
+This project is part of a <a href="https://projects.datacamp.com/projects/1237">DataCamp course</a>.
 ## 1. Loading your friend's data into a dictionary
 <p><img src=img/tv-gf2fedad98_1920.jpg></p>
 <p>Netflix! What started in 1997 as a DVD rental service has since exploded into the largest entertainment/media company by <a href="https://www.marketwatch.com/story/netflix-shares-close-up-8-for-yet-another-record-high-2020-07-10">market capitalization</a>, boasting over 200 million subscribers as of <a href="https://www.cbsnews.com/news/netflix-tops-200-million-subscribers-but-faces-growing-challenge-from-disney-plus/">January 2021</a>.</p>
